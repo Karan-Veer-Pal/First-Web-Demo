@@ -1,0 +1,66 @@
+body
+{
+    font-family: cursive;
+    color: white;
+    margin:0px;
+    padding: 0px;
+    background: url('bg.jpg') no-repeat center center/cover;
+}
+.left
+{
+    left: 390px;
+    top: 50px;
+}
+.left img
+{
+    width: 130px;
+}
+.left div
+{
+    font-size: 1rem;
+}
+
+.mid
+{
+    width: 90%;
+    margin: 220px auto; 
+}
+.navbar li
+{
+     margin: 0px 0px 0px 34px;
+     font-size: 1rem;
+}
+.navbar li a
+{
+     padding: 40px 15px;
+}
+
+.right
+{
+     display: flex;
+     flex-direction: column;
+}
+.btn
+{
+ margin: 15px 15px;
+ font-size: 1rem;
+}
+
+.container
+{
+ margin: 0px auto;
+ padding: 0px 60px;
+ width: 45%;
+ /* height: 20%; */
+}
+
+.formgroup input
+{
+     width: 90%;
+     padding: 4px;
+     font-size: 1rem;
+}
+.container button
+{
+     width: 91%;
+}
