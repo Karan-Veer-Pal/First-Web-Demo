@@ -1,2 +1,2 @@
 # First-Web-Demo
-Something like a Personal Portfolio
+Front-end of the GYM Website.
